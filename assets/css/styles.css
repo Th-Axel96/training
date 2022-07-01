@@ -1,0 +1,9 @@
+h1 {
+  text-align: center;
+  border: 3px solid salmon ;
+  border-radius: 50%;
+  font-size: 3em;
+  color: salmon;
+  background-color: blue;
+}
+
